@@ -1,14 +1,14 @@
 //
-//  AddProfileVC.swift
+//  PhotosVC.swift
 //  events
 //
-//  Created by William Musumba on 07/01/2018.
+//  Created by William Musumba on 12/01/2018.
 //  Copyright © 2018 William Musumba. All rights reserved.
 //
 
 import UIKit
 
-class AddProfileVC: UIViewController {
+class PhotosVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
