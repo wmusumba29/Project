@@ -1,14 +1,14 @@
 //
-//  ProfileOwnerVC.swift
+//  MainVC.swift
 //  events
 //
-//  Created by William Musumba on 02/01/2018.
+//  Created by William Musumba on 06/03/2018.
 //  Copyright © 2018 William Musumba. All rights reserved.
 //
 
 import UIKit
 
-class ProfileOwnerVC: UIViewController {
+class MainVC: UITabBarController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
